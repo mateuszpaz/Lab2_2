@@ -4,3 +4,4 @@ trzecia linijka
 czwarta linijka
 piąta linijka
 szósta linijka
+7 linijka (master)
