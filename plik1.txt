@@ -4,4 +4,8 @@ trzecia linijka
 czwarta linijka
 piąta linijka
 szósta linijka
+<<<<<<< HEAD
 7 linijka (master)
+=======
+7 linijka (hotfix)
+>>>>>>> hotfix
